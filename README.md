@@ -33,12 +33,17 @@ Your project must include forms that follow the user experience and use `collect
 For example: If I am creating a Song in a form, I should be able to select from a list of Genres that exist already, or create a new one at the same time.
 
 #### Recap of Requirements
-1 . SQLite
-2 . Three models
-3 . Has Many - Belongs To relationship
-4 . Has Many, Through relationship
-5 . CRUD actions for your models
-6 . Form with `collection_select`
+1. SQLite
+
+2. Three models
+
+3. Has Many - Belongs To relationship
+
+4. Has Many, Through relationship
+
+5. CRUD actions for your models
+
+6. Form with `collection_select`
 
 BONUS: Nested form for your Has_many, belongs to relationship, adding validations where appropriate for models.
 
